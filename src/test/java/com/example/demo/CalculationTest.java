@@ -8,6 +8,6 @@ class CalculationTest {
     @Test
     void testAdditionWorks() {
         int result = 1 + 1;
-        assertEquals(2, result, "1 + 1 should equal 2");
+        assertEquals(3, result, "1 + 1 should equal 2");
     }
 }
